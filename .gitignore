@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+
+# Secretos y datos personales: no se suben a git
+.env.local
+mis-notas.json
